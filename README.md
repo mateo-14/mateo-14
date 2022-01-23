@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋🏻! I'm Mateo Ledesma. 🧑🏻‍💻
+### I'm Full Stack JavaScript Developer and I love coding ❤️
 
-<!--
-**mateo-14/mateo-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My projects 👇🏻
+---
+[Click me!](https://mateoledesma.netlify.app/portfolio)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skills 👇🏻
+---
+- JavaScript & TypeScript
+- Node.js
+- React 💙
+- Next.js
+- HTML
+- CSS
+- C#
+- Java
+- Golang
+- Git
+- MongoDB (Mongoose)
+- ORM (Sequelize, Prisma, TypeORM)
