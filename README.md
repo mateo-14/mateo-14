@@ -3,7 +3,7 @@
 
 My projects 👇🏻
 ---
-[Click me!](https://mateoledesma.netlify.app/portfolio)
+[Click me!](https://mateoledesma.vercel.app/projects)
 
 My skills 👇🏻
 ---
