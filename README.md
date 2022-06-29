@@ -8,7 +8,7 @@ I started programming in 2015, and in 2019 I started with Web Development, with 
 
 * 🖥️  See my [projects](http://mateoledesma.vercel.app/projects)
 * ✉️  You can contact me at [mateo.14.ledesma@gmail.com](mailto:mateo.14.ledesma@gmail.com)
-* 🧠  I'm learning Java, Spring, Spring Boot and ASP.NET
+* 🧠  I'm learning Java, Spring and GitHub Actions
 
 ### Skills
 
