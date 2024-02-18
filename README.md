@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏻‍💻 I'm Mateo, a Full Stack Developer from Argentina<br>❤️ I really like coding, learning and logic<br>💼 I'm working full time as a Frontend Developer with JavaScript, React and Next.js, but I'd also like to work as a Backend Developer with C# or Go<br>🤝 I like helping people who are learning programming<br>🌱 I’m currently learning ASP.NET and Next.js App Router<br>🔭 I’m currently working on personal projects for my portfolio
+🧑🏻‍💻 I'm Mateo, a Full Stack Developer from Argentina<br>❤️ I really like coding, learning and logic<br>💼 I'm working full time as a Frontend Developer with JavaScript, React and Next.js, but I'd also like to work as a Backend Developer with C# or Go<br>🤝 I like helping people who are learning programming
 
 ## 💼 Portfolio:
 [You can see some of my projects by clicking here](https://www.mateoledesma.com/#projects)
